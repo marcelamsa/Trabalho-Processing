@@ -170,3 +170,5 @@ Investigue todos os pontos disponíveis, interprete corretamente as evidências 
 ## 👩‍💻 Autoria
 
 Projeto desenvolvido por **Marcela Almeida** utilizando Processing.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcela-almeida-551823233)
